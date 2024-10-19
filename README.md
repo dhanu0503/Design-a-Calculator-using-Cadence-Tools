@@ -1,8 +1,8 @@
 # Design-a-Calculator-using-Cadence-Tools
-Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools   
+Ex No: 07     Design & Implementation of Calculator Using Cadence EDA Tools   
 
 Aim:
-To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
+To design and implement a basic calculator circuit using Cadence EDA tools that performs arithmetic operations such as addition, subtraction, multiplication, and division, and to analyze its functionality.
 
 Tools Required:
 •	Personal Computer
@@ -78,8 +78,6 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-
-
  
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -95,18 +93,6 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
- 
- 
-
-
- 
-
-
-
-
- 
-
+  
 Results:
-1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
-2.	The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
-3.	The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
+The design and implementation of a basic calculator using Cadence EDA tools were successfully completed. The calculator was able to perform addition, subtraction, multiplication, and division operations accurately.
